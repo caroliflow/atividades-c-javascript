@@ -1,1 +1,1 @@
-# atividades-c-javascript
+# Atividades de C++ e Javascript
